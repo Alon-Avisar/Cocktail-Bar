@@ -1,0 +1,22 @@
+<section class="cocktail-edit">
+    <h2>{{ isEdit ? 'Edit Cocktail' : 'Add Cocktail' }}</h2>
+    <br>
+    <form *ngIf="cocktail" (ngSubmit)="isEdit ? onEditCocktail() : onAddCocktail()">
+
+        <label for="name">Name</label>
+        <input [(ngModel)]="cocktail.name" type="text" name="name" id="name">
+
+        <label for="ingsList">Extra ingredients</label>
+        <input [(ngModel)]="cocktail.ingsList" type="text" name="ingsList" id="ingsList">
+
+
+             
+        <button class="cta">
+            <span >Save Your Cocktail</span>
+            <svg viewBox="0 0 13 10" height="10px" width="15px">
+            </svg>
+        </button>
+    </form>
+</section>
+<!-- <button (click)="playMusic(ev)">ddd</button> -->
+    <img src="../../../assets/editt.jpeg" alt="">

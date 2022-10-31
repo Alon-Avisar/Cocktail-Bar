@@ -1,0 +1,24 @@
+<section *ngIf="cocktail" class="cocktail-details">
+  <div>
+    <img src="{{ cocktail.imgUrl }}" />
+  </div>
+  <div class="cocktail-info">
+    <h1>{{ cocktail.name }}</h1>
+    <p class="glass">{{ cocktail.glass }}</p>
+    <div class="ingredients">
+      <span>{{ cocktail.ins }}</span>
+      <span>{{ cocktail.ingsList }}</span> 
+    </div>
+
+
+
+    <button  [routerLink]="['/edit',cocktail.id]" class="cta">
+      <span>Edit This Cocktail</span>
+      <svg viewBox="0 0 13 10" height="10px" width="15px">
+      </svg>
+    </button>
+
+
+  </div>
+</section>
+<img  class="bc-img" src="../../../assets/editt.jpeg" alt="">

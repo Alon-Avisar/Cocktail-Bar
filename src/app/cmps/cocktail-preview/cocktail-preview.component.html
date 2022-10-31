@@ -1,0 +1,22 @@
+<section  class="cocktail-preview" [routerLink]="['/cocktails' ,cocktail.id]">
+  <span [class.fav]="cocktail.isStar" (click)="onStar($event)" 
+  class="material-icons">{{ cocktail.isStar ? 'favorite' : 'favorite_border' }}</span>  
+  <section class="info">
+    <section class="data">
+      <div>
+        <p>{{ cocktail.name }}</p>
+        
+        <img [src]="cocktail.imgUrl" />
+      </div>
+    </section>
+    <!-- <span class="star" [class.fav]="cocktail.isStar" (click)="onStar($event, cocktail.id)"></span> -->
+
+    <section class="actions">
+    </section>
+    
+  </section>
+
+
+
+
+

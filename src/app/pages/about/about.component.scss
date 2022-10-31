@@ -1,0 +1,32 @@
+.about {
+    display: flex;
+    top: 10px;
+    justify-content: center;
+
+
+h1 {
+    position: absolute;
+    letter-spacing: 1px;
+    font-size: 3em;
+    font-weight: 500;
+    left: 10px;
+
+}
+pre{
+    position: absolute;
+    font-size: 1.2em;
+    gap: 10px;
+    padding:30px;
+    left: 10px;
+    position: absolute;
+    font-size: 1.33em;
+    gap: 10px;
+    color: rgba(65, 30, 8, 0.7);
+}
+
+}
+
+img{
+    min-width: 1400px;
+    // min-height: 800px;h
+}

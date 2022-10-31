@@ -1,0 +1,110 @@
+.cocktail-edit {
+    height: 500px;
+    width: 555px;
+    position: fixed;
+    inset: 0;
+    top: 10%;
+    margin: auto;
+    background-color: rgb(252, 251, 250);
+    border: rgb(18, 18, 18) 1px solid;
+    box-shadow: -3px 1px 28px #00000061;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border-radius: 10px;
+    padding: 30px;
+
+    h2{
+    font-family: monospace;
+    font-size: 1.7em;
+    margin-top: 50px;
+    }
+
+    label{
+        font-size: 20px;
+    }
+
+    input {
+        width: 333px;
+        height: 40px;
+        padding: 10px;
+        bottom:  20px;
+        border: 1px solid rgb(184, 176, 176);
+        border-radius: 10px;
+    }
+    form {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        label {
+            margin-top: 1em;
+            font-family: monospace;
+            margin-top:25px;
+        }
+
+.cta {
+    position: relative;
+    margin: auto;
+    padding: 12px 18px;
+    transition: all 0.2s ease;
+    border: none;
+    background: none;
+    top:50px;
+    margin-right: 39px;
+
+   }
+   
+   .cta:before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    display: block;
+    border-radius: 50px;
+    background: #ffec94;
+
+    width: 45px;
+    height: 45px;
+    transition: all 0.3s ease;
+   }
+   
+   .cta span {
+    position: relative;
+    font-family: "Ubuntu", sans-serif;
+    font-size: 18px;
+    font-weight: 700;
+    letter-spacing: 0.05em;
+    color: #234567;
+   }
+   
+   .cta svg {
+    position: relative;
+    top: 0;
+    margin-left: 10px;
+    fill: none;
+    stroke-linecap: round;
+    stroke-linejoin: round;
+    stroke: #dbd28f;
+    stroke-width: 2;
+    transform: translateX(-5px);
+    transition: all 0.3s ease;
+   }
+   
+   .cta:hover:before {
+    width: 100%;
+    background: #f2cf66;
+   }
+   
+   .cta:hover svg {
+    transform: translateX(0);
+   }
+   
+   .cta:active {
+    transform: scale(0.95);
+   }
+    }
+}
+
+img{
+    min-width: 1500px;
+}
