@@ -32,7 +32,7 @@ Please feel free to take a look of the different components of the website - [Sh
 ## Getting started
 Clone the project or dowload the files on top.
 ```
-https://github.com/Alon-Avisar/cocktail-bar2.git
+git clone https://github.com/Alon-Avisar/cocktail-bar2.git
 ```
 Open the terminal and enter the following line to run it locally on your computer:
 ```
