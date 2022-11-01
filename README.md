@@ -1,6 +1,6 @@
 # CocktailBar
 
-#### An app I wrote with Angular, that allows to get information about cocktail recipes , edit them, an even add your own cocktails !
+#### An app I wrote with Angular, that allows to get information about cocktail recipes , edit them, an even add your own cocktails!
  Take a look, it's on Github pages [Cocktail bar](https://alon-avisar.github.io/cocktail-bar2/#/)🍹
 
 
