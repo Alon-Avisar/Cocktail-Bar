@@ -1,30 +1,78 @@
 # CocktailBar
 
-#### An app I wrote with Angular, that allows to get information about cocktail recipes , edit , an even add your own cocktail !
-Take a look, it's on Github pages 🍹 
+#### An app I wrote with Angular, that allows to get information about cocktail recipes , edit them, an even add your own cocktails !
+ Take a look, it's on Github pages [Cocktail bar](https://alon-avisar.github.io/cocktail-bar2/#/)🍹
 
 
-## ![Screen Shot 2022-11-01 at 11 11 57](https://user-images.githubusercontent.com/109606770/199202231-50bf20fe-4fc0-47c1-8dd0-515126879907.png)
-
-## Development server
-
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
-
-## Code scaffolding
-
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
-
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+### Table of Contents
+- [Description](#description)
+- [Features](#features)
+- [Getting started](#getting-started)
+- [Showcase](#showcase)
 
 
+## Description
+I decided to learn a new framework, because I want to keep expanding my knowladge and try new chalanges. That was **my motivation.** 
+
+You are more than welcome to ***check it out*** (just enter your name and see it yourself - [right here](https://oribenamram.github.io/Bitcoin-Vue "Github pages link"))
+
+
+#### Technologies
+
+- Angular 14.2.6
+- Angular-Router
+- rxjs
+- Sass
+- Angular CLI & Github pages
+
+## Features
+Please feel free to take a look of the different components of the website - [Showcase](#showcase)
+
+
+## Getting started
+Clone the project or dowload the files on top.
+```
+https://github.com/Alon-Avisar/cocktail-bar2.git
+```
+Open the terminal and enter the following line to run it locally on your computer:
+```
+npm i
+ng serve
+```
+Runs the app in the development mode.
+Open http://localhost:4200 to view it in the browser.
+
+## Showcase
+
+
+### Home-page
+
+ ![Screen Shot 2022-11-01 at 11 11 57](https://user-images.githubusercontent.com/109606770/199202231-50bf20fe-4fc0-47c1-8dd0-515126879907.png)
+ 
+ 
+### The Cocktail list 
+You can view your different cocktails, filter them by name. 
+In addition, you can view , add / edit a coocktail.
+
+![Screen Shot 2022-11-01 at 11 14 52](https://user-images.githubusercontent.com/109606770/199206782-62929fc2-2ba9-4a8b-9c05-b11082c375a6.png)
+
+
+ 
+### Cocktail description
+
+view the cocktail description and edit the cocktail!
+
+![Screen Shot 2022-11-01 at 11 15 51](https://user-images.githubusercontent.com/109606770/199207499-2c183726-fc7a-4db8-b7d0-a7e0413d3e78.png)
+
+
+
+### Add / edit  a new cocktail
+In the same page, you can click on the button "Add a new contact", and the right fields would appear.
+![Screen Shot 2022-11-01 at 11 16 09](https://user-images.githubusercontent.com/109606770/199214651-a3b9b84e-3b16-4a1e-b5fe-9f266527616f.png)
+
+
+
+### Your favorite cocktails
+
+![Screen Shot 2022-11-01 at 11 15 10](https://user-images.githubusercontent.com/109606770/199214511-85d5bd55-0ea7-459d-95eb-3d2eb7ac5591.png)
 
