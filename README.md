@@ -47,14 +47,14 @@ Open http://localhost:4200 to view it in the browser.
 
 ### Home-page
 
- ![Screen Shot 2022-11-01 at 11 11 57](https://user-images.githubusercontent.com/109606770/199202231-50bf20fe-4fc0-47c1-8dd0-515126879907.png)
+ ![home page image](https://user-images.githubusercontent.com/109606770/199202231-50bf20fe-4fc0-47c1-8dd0-515126879907.png)
  
  
 ### The Cocktail list 
 You can view your different cocktails, filter them by name. 
 In addition, you can view , add / edit a coocktail.
 
-![Screen Shot 2022-11-01 at 11 14 52](https://user-images.githubusercontent.com/109606770/199206782-62929fc2-2ba9-4a8b-9c05-b11082c375a6.png)
+![cocktail list image](https://user-images.githubusercontent.com/109606770/199206782-62929fc2-2ba9-4a8b-9c05-b11082c375a6.png)
 
 
  
@@ -62,17 +62,18 @@ In addition, you can view , add / edit a coocktail.
 
 view the cocktail description and edit the cocktail!
 
-![Screen Shot 2022-11-01 at 11 15 51](https://user-images.githubusercontent.com/109606770/199207499-2c183726-fc7a-4db8-b7d0-a7e0413d3e78.png)
+![cocktail description image](https://user-images.githubusercontent.com/109606770/199207499-2c183726-fc7a-4db8-b7d0-a7e0413d3e78.png)
 
 
 
 ### Add / edit  a new cocktail
+
 In the same page, you can click on the button "Add a new contact", and the right fields would appear.
-![Screen Shot 2022-11-01 at 11 16 09](https://user-images.githubusercontent.com/109606770/199214651-a3b9b84e-3b16-4a1e-b5fe-9f266527616f.png)
+![add /edit cocktail image](https://user-images.githubusercontent.com/109606770/199214651-a3b9b84e-3b16-4a1e-b5fe-9f266527616f.png)
 
 
 
 ### Your favorite cocktails
 
-![Screen Shot 2022-11-01 at 11 15 10](https://user-images.githubusercontent.com/109606770/199214511-85d5bd55-0ea7-459d-95eb-3d2eb7ac5591.png)
+![favorites cocktail image](https://user-images.githubusercontent.com/109606770/199214511-85d5bd55-0ea7-459d-95eb-3d2eb7ac5591.png)
 
